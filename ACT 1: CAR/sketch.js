@@ -8,7 +8,7 @@ const carColors = [
   "#646536",
 ];
 
-let carSpeed = 2.8;
+let carSpeed = 6.7;
 
 // this stores building heights so they don't change every frame
 let buildingHeights = [];
